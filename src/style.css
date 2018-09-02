@@ -1,0 +1,23 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  margin-top: 50px;
+}
+
+#Qtext{
+  width: 35%;
+  margin-left: 15%;
+  padding: 5px;
+  margin-right: 10px;
+}
+
+select{
+  padding: 5px;
+  margin-right: 10px;
+}
+
+#search{
+  padding: 5px;
+}
